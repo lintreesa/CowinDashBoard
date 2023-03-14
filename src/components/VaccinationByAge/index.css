@@ -1,0 +1,13 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.piechart2-container {
+  width: 90%;
+
+  background-color: #1c1c2b;
+  margin-bottom: 10px;
+}
+.piechart2-heading {
+  color: #cbd5e1;
+  font-size: 24px;
+  font-weight: 500;
+}
